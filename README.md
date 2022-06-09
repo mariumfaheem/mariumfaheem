@@ -1,7 +1,7 @@
 
 
 
-<h1 align="center">Hi 👋, Syeda Marium Faheem</h1>
+<h1 align="center">Syeda Marium Faheem</h1>
 <h3 align="center">A Passionate Data Person from Pakistan</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
