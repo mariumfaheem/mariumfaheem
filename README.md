@@ -1,5 +1,4 @@
 
-[![Braydon's GitHub Banner](./assets/GitHubHeader.png)](https://braydoncoyer.dev)
 
 <h1 align="center">Syeda Marium Faheem</h1>
 <h3 align="center">A Passionate Data Person from Pakistan</h3>
