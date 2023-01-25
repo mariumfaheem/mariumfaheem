@@ -3,7 +3,6 @@
 <h1 align="center">Syeda Marium Faheem</h1>
 <h3 align="center">A Passionate Data Person from Pakistan</h3>
 
-<p align="right"> <a href="https://medium.com/@MariumFaheem" target="blank"><img src="https://img.shields.io/twitter/follow/mariumfaheem?logo=medium&style=for-the-badge" alt="@MariumFaheem" /></a> </p>
 
 - 🔭 I’m currently working on building best **Data Platform**.I've enticing experience with data-related technologies.
 
